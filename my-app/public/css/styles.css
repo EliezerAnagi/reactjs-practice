@@ -1,0 +1,43 @@
+h5,p{
+	text-align: center;
+}
+.cont2{
+	padding:0px 80px;
+	padding-bottom: 65px;
+	background-color: white;
+	padding-top:40px ;
+}
+.row2{
+	background-color: darkblue;
+	
+}
+body{
+	background-color: moccasin;
+	font-style: italic ;
+}
+.cont1{
+	margin: 0px 0px 0px 90px;
+	width: 90%;
+}
+.col6{
+	width: 300%;
+}
+.row7{
+	background-color: white;
+	margin-left: 0.3px;
+	width: 102.64%;
+	padding-top: 5px;
+	margin-top: 40px;
+}
+.row7 li{
+	list-style-type: none;
+	float: left;
+
+}
+.COL2{
+	display: flex;
+	justify-content: space-between;
+}
+.COL2 li{
+	list-style-type: none;
+}
